@@ -4,7 +4,7 @@ Introduction to Gen2/Omni1 curated dataset source code
 
 Created by Sophia Lu
 Revised by Alvin Ang 
-Last updated: April 2024
+Last updated: May 2024
 
 
 The purpose of this SAS code is to allow users to create similar data structure and naming convention to that of the Gen2/Omni1 
